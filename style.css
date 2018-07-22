@@ -1,0 +1,297 @@
+.login {
+	height: 350px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5% auto;
+}
+
+.login p {
+	padding: 10px;
+}
+
+.back{
+	float: right;
+}
+
+.registration {
+	height: 1200px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5% auto;
+}
+
+.registration p {
+	padding: 10px;
+}
+
+.addevent {
+	height: 850px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 3% auto;
+}
+
+.reset{
+	float: right;
+}
+
+.addtheme {
+	height: 425px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 3% auto;
+}
+
+.adduser {
+	height: 1170px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 3% auto;
+}
+
+
+.edituser {
+	height: 1000px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 3% auto;
+}
+footer {
+	background-color: black;
+} 
+
+.qnav ul, .discover ul {
+	list-style: none;
+}
+
+.qnav ul li a:hover, .discover ul li a:hover {
+	color: red;
+}
+
+footer hr {
+	width: 100%;
+}
+
+footer h2.h1 {
+	color: #aad;
+	font-weight: bold;
+}
+.top {
+	float: left;
+}
+.slide {
+	margin: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+.bg-light {
+    background-color: #101113!important;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-left: 112px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #e4dcdcf2;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #e5dddd;
+}
+
+.h2, h2 {
+    font-size: 2rem;
+    padding-bottom: 15px;
+}
+
+.food {
+	height: 250px;
+	width: 500px;
+	background-color: #ccc;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5% auto;
+}
+
+.other {
+	height: 450px;
+	width: 500px;
+	background-color: #ccc;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5% auto;
+}
+
+.fooditem {
+	height: 350px;
+	width: 500px;
+	background-color: #ccc;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5% auto;
+}
+
+.Userinformation table{
+	border-collapse: collapse;
+	margin: 5% auto;
+	min-width: 510px;
+	min-height: 510px;
+	background: #f3f3f3;
+}
+.Userinformation table tr td{
+	border:1px solid #333;
+
+}
+.Userinformation table td {
+	border: 1px solid #333;
+	padding-left: 15px;
+}
+
+.Userinformation table th{
+	border: 1px solid #333;
+	text-align: center;
+	font-size: 28px;
+	padding: 10px;
+}
+
+.btnupdate {
+    padding-left: 590px;
+    padding-bottom: 15px;
+}
+
+.header {
+	background-color: #e5dddd;
+    text-decoration: underline;
+    box-sizing: border-box;
+    text-align: left;
+    text-decoration-style: double;
+    padding-left: 43%;
+    
+}
+
+.card-img-top {
+    width: 60%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+
+.mb-3, .my-3 {
+    padding-top: 10px;
+    margin-bottom: 1rem!important;
+    background-color: #e5dddd;
+}
+
+footer h2.h1 {
+    padding-left: 50px;
+    padding-right: 70px;
+    color: #ec526b;
+    font-weight: bold;
+}
+
+.follow {
+	padding-left: 79%;
+}
+
+.navbar-light .navbar-brand {
+    color: #ec526b;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+.paragraph {
+	text-align: justify;
+}
+
+/*.bg {
+	background-image: url(img/about.jpg);
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+}*/
+
+.addtrans {
+	height: 425px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 3% auto;
+}
+
+.theme {
+	margin: 1% auto;
+ 	background-color: gray;
+}
+
+
+
+.theme a {
+	color: #fff942;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.addfooditem {
+	height: 350px;
+	width: 500px;
+	background-color: #ab5d5d;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 3% auto;
+}
+
+.profile {
+	width: 50%;
+	margin: 5% auto;
+}
+
+.ptext {
+	font-size: 28px;  
+}
+.service{
+	margin: 0 auto;
+	width: 1234px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+}
